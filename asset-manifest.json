@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Minimalist-Clock/static/css/main.2f6b6eb2.css",
+    "main.js": "/Minimalist-Clock/static/js/main.2647ea69.js",
+    "static/media/iphone_alarm.mp3": "/Minimalist-Clock/static/media/iphone_alarm.ee8a1c560d7eae050f27.mp3",
+    "index.html": "/Minimalist-Clock/index.html",
+    "main.2f6b6eb2.css.map": "/Minimalist-Clock/static/css/main.2f6b6eb2.css.map",
+    "main.2647ea69.js.map": "/Minimalist-Clock/static/js/main.2647ea69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f6b6eb2.css",
+    "static/js/main.2647ea69.js"
+  ]
+}
